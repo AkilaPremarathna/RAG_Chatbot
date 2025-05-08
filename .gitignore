@@ -1,2 +1,5 @@
 # Virtual environment
 .vemv/
+
+# Environment variables
+.env
