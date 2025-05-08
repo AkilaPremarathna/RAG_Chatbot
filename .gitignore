@@ -1,5 +1,7 @@
 # Virtual environment
 .vemv/
+pdfs/
+vectordb/
 
 # Environment variables
 .env
