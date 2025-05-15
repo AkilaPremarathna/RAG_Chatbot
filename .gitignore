@@ -2,6 +2,7 @@
 .vemv/
 pdfs/
 vectordb/
+temp_vectordb/
 
 # Environment variables
 .env
